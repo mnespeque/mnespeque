@@ -2,7 +2,7 @@
 
 - 🔭 Sou física, apaixonada por ciência de materiais
 - 🌱 Estou aprendendo ciência de dados e desenvolvimento de software
-- 😄 Pronouns: ela/ela
+- 😄 Pronouns: ela/dela
 
 
 <div align="center">
